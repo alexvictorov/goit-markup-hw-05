@@ -667,7 +667,7 @@
 
   }
 
-  .modal-window .is-open {
+  .modal-window.is-open {
       opacity: 1;
       visibility: visible;
       pointer-events: auto;
@@ -729,7 +729,7 @@
       border: none;
   }
 
-  .modal-windows-button :hover .modal-windows-view {
+  .modal-windows-button:hover .modal-windows-view {
       fill: #ffffff
   }
 
